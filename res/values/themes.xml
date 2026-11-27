@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.UMBBGuide" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/umbb_blue</item>
+        <item name="colorPrimaryDark">@color/umbb_blue_dark</item>
+        <item name="colorSecondary">@color/umbb_accent</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>
