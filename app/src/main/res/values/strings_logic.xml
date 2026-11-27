@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="details">Details</string>
+    <string name="faculty_header">%1$s  ⓘ</string>
+    <string name="no_departments">No departments listed. Tap the header for faculty details.</string>
+    <string name="no_app_found">No app can do this action</string>
+</resources>

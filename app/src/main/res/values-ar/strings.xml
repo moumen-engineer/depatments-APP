@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">دليل جامعة بومرداس</string>
+
+    <!-- Home -->
+    <string name="university_name">جامعة بومرداس محمد بوقرة</string>
+    <string name="university_description">جامعة بومرداس (UMBB) هي جامعة عمومية في شمال الجزائر. تقدم برامج الليسانس والماستر والدكتوراه في عدة كليات وأقسام في العلوم والهندسة والاقتصاد والحقوق واللغات.</string>
+    <string name="logo_description">شعار الجامعة</string>
+
+    <!-- Navigation / lists -->
+    <string name="faculties">الكليات</string>
+    <string name="departments">الأقسام</string>
+    <string name="settings">الإعدادات</string>
+    <string name="search_hint">بحث…</string>
+    <string name="toggle_display">تغيير نمط العرض</string>
+
+    <!-- Detail -->
+    <string name="description">الوصف</string>
+    <string name="specialties">التخصصات</string>
+    <string name="contact">اتصال</string>
+    <string name="call">اتصال</string>
+    <string name="sms">رسالة</string>
+    <string name="email">بريد</string>
+    <string name="map">الخريطة</string>
+    <string name="item_image">صورة</string>
+
+    <!-- Settings -->
+    <string name="language">اللغة</string>
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+    <string name="display_style">نمط العرض</string>
+    <string name="list_view">قائمة</string>
+    <string name="grid_view">شبكة</string>
+    <string name="save">حفظ</string>
+</resources>

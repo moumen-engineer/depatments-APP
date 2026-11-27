@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="details">التفاصيل</string>
+    <string name="faculty_header">%1$s  ⓘ</string>
+    <string name="no_departments">لا توجد أقسام مدرجة. اضغط على العنوان لعرض تفاصيل الكلية.</string>
+    <string name="no_app_found">لا يوجد تطبيق لتنفيذ هذا الإجراء</string>
+</resources>
